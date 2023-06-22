@@ -107,7 +107,7 @@ ul{
 }
 
 .top-banner{
-    background-image: url(/asset\ 30.png);
+    background-image: url(/asset\ 32.png);
     background-color: #4fb3d4;
     background-size: 300px;                    /* image repeat karegi */
 }
@@ -230,7 +230,7 @@ header{
     width: 23%;
     position: relative;
     min-height: 300px;
-    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(/asset\ 35.jpeg);
+    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(/asset\ 36.jpeg);
     background-size: cover;
     transition: 0.7s ease-out;
 }
@@ -240,23 +240,24 @@ header{
 }
 
 .example-card:nth-child(2){
-    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(/asset\ 34.jpeg);
+    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(/asset\ 37.jpeg);
     background-size: cover;
 }
 
 .example-card:nth-child(3){
-    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(/asset\ 36.jpeg);
+    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(/asset\ 38.jpeg);
     background-size: cover;
 }
 
 .example-card:nth-child(4){
-    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(/asset\ 37.jpeg);
+    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(/asset\ 39.jpeg);
     background-size: cover;
 }
 
 .card-text{
     color: white;
     position: absolute;
+    font-size: 25px;
     bottom: 10px;
     right: 20px;
     left: 20px;
